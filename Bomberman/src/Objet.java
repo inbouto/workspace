@@ -3,7 +3,6 @@ public class Objet {
   private int posX;
 
   private int posY;
-
   /** 
    *  cette methode ne fait rien, mais elle reste important puisque elle sera appellée et pour d'autres sous-classes, serai override et aura un effet (Caisse, Joueur etc)
    */

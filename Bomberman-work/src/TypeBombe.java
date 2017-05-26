@@ -1,0 +1,7 @@
+enum TypeBombe {
+
+  normale,
+
+  mega;
+
+}

@@ -1,9 +1,7 @@
 import java.awt.Color;
 
-import edu.princeton.cs.introcs.StdDraw;
-
 public class Main {
-	private static String path= "C:/Users/ccouble/workspace/Bomberman/graphisme/";
+	private static String path= "C:/Users/Guillaume/workspace/Bomberman/graphisme/";
 	
 public static void main (String[] args){
     StdDraw.setXscale(10,10);
